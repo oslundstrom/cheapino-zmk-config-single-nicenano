@@ -55,7 +55,7 @@
               &none &trans &trans &kp DELETE &kp BACKSPACE &kp ENTER
           >;
         };
-        SYMBOL_RIGHT {
+        MOUSE {
           bindings = <
           &none &none &none &none &none                 &kp AT &kp UNDERSCORE &kp PIPE &kp GRAVE &kp PERCENT
           &trans &trans &trans &none &none              &kp HASH &kp TAB &kp EXCLAMATION &kp DOUBLE_QUOTES &kp DOLLAR
