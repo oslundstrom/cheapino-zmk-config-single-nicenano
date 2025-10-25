@@ -49,10 +49,10 @@
         };
         NAV {
           bindings = <
-          &none &kp HOME &kp DELETE &kp PAGE_UP &none &none &none &none &none &studio_unlock
-          &caps_word &kp LEFT &kp UP &kp RIGHT &none &none &trans &trans &trans &trans 
-          &none &kp END &kp DOWN &kp PAGE_DOWN &none &none &mkp MB1 &mkp MB2 &mkp MB3 &mkp MB4
-              &none &trans &trans &none &none &none
+          &none &none &none &none &none &kp REDO &kp PASTE &kp COPY &kp CUT &kp UNDO
+          &none &none &none &trans &trans &kp LEFT &kp DOWN &kp UP &kp RIGHT &caps_word 
+          &none &none &none &none &studio_unlock &kp INSERT &kp HOME &kp PAGE_UP &kp PAGE_DOWN &kp END
+              &none &trans &trans &kp DELETE &kp BACKSPACE &kp ENTER
           >;
         };
         SYMBOL_RIGHT {
