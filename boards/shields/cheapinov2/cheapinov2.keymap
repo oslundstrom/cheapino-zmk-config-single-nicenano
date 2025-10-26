@@ -49,9 +49,9 @@
         };
         NAV {
           bindings = <
-          &none &kp HOME &kp DELETE &kp PAGE_UP &none &none &none &none &none &studio_unlock
+          &none &none &none &none &none &none &none &none &none &none
           &none &none &none &none &none &caps_word &kp LEFT &kp UP &kp RIGHT &none 
-          &none &kp END &kp DOWN &kp PAGE_DOWN &none &none &mkp MB1 &mkp MB2 &mkp MB3 &mkp MB4
+          &none &none &none &none &none &none &mkp MB1 &mkp MB2 &mkp MB3 &mkp MB4
               &none &trans &trans &none &none &none
           >;
         };
