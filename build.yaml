@@ -1,5 +1,4 @@
 include:
   - board: nice_nano_v2
     shield: cheapinov2
-    snippet: zmk-usb-logging
 # there is no settingsreset (needed) for the XIAO
